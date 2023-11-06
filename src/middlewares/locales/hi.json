@@ -1,0 +1,10 @@
+{
+    "Success": "सफल",
+    "Created successfully": "सफलतापूर्वक बनाया गया",
+    "Authenticated user": "प्रमाणित उपयोगकर्ता",
+    "Token expired": "टोकन समाप्त हो गया",
+    "Something went wrong, Please try again.": "कुछ गड़बड़ हुई है। कृपया दोबारा प्रयास करें.",
+    "Not found": "नहीं मिला",
+    "Incorrect route": "गलत मार्ग",
+    "Successfully logged Out": "सफलतापूर्वक लॉग आउट"
+}

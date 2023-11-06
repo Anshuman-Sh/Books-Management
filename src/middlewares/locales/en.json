@@ -1,0 +1,31 @@
+{
+	"Created successfully": "Created successfully",
+	"Success": "Success",
+	"Something went wrong, Please try again.": "Something went wrong, Please try again.",
+	"Authenticated user": "Authenticated user",
+	"Incorrect route": "Incorrect route",
+	"Successfully logged Out": "Successfully logged Out",
+	"Not found": "Not found",
+	"Email not found": "Email not found",
+	"Password is Incorrect": "Password is Incorrect",
+	"Token expired": "Token expired",
+	"Validation Failed, Kindly check your parameters": "Validation Failed, Kindly check your parameters",
+	"Updated successfully": "Updated successfully",
+	"User not found": "User not found",
+	"Successfully logged In": "Successfully logged In",
+	"This email already exist": {
+		" Please try with other email": "This email already exist. Please try with other email"
+	},
+	"Event not found": "Event not found",
+	"Mail Send successfully": "Mail Send successfully",
+	"Successfully saved": "Successfully saved",
+	"Person not found": "Person not found",
+	"Response not found": "Response not found",
+	"Connection not found": "Connection not found",
+	"No fields to export": "No fields to export",
+	"Password not found": "Password not found",
+	"Please try with other email, already in use": "Please try with other email, already in use",
+	"Deleted successfully": "Deleted successfully",
+	"Please authenticate": "Please authenticate",
+	"Book not found": "Book not found"
+}
